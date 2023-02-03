@@ -15,8 +15,8 @@ sites:
     apiBaseUrl: https://api.github.com
     baseUrl: /Upptime
       navbar:
-       - title: Status
-         href: /
-       - title: GitHub
-         href: https://github.com/ninetydays/Upptime
+         - title: Status
+          href: /
+         - title: GitHub
+          href: https://github.com/ninetydays/Upptime
  
