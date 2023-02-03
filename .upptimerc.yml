@@ -5,7 +5,7 @@ repo: Upptime # The name of this repository
 sites:
   - name: new-loan
     url: https://90days.kr/
-   - name: citron
+  - name: citron
     url: https://loan.90days.kr/
 
 status-website:
