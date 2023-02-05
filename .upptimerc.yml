@@ -12,11 +12,12 @@ status-website:
 # Add your custom domain name, or remove the `cname` line if you don't have a domain
 # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
 #cname: demo.upptime.js.org
+  name: Upptime
   apiBaseUrl: https://api.github.com
   baseUrl: /Upptime
   navbar:
     - title: Status
-      href: /
+      href: /Upptime
     - title: GitHub
       href: https://github.com/ninetydays/Upptime
  
