@@ -16,7 +16,7 @@ status-website:
   baseUrl: /Upptime
   navbar:
     - title: Status
-      href: /
+      href: /Upptime
     - title: GitHub
       href: https://github.com/ninetydays/Upptime
  
