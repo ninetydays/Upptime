@@ -43,4 +43,3 @@ jobs:
         notify_when: "failure"
         env:
           SLACK_WEBHOOK_URL: ${{secrets.NOTIFICATION_SLACK_WEBHOOK_URL}}
-          SLACK_MESSAGE: *[${GITHUB_REPOSITORY}] Task Failed*
